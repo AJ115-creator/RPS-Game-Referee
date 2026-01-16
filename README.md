@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Bomb AI Game Referee
 
-An AI-powered game referee for Rock-Paper-Scissors-Plus, built with Google ADK (Agent Development Kit).
+An AI-powered game referee for Rock-Paper-Scissors-Bomb, built with Google ADK (Agent Development Kit).
 
 ## Quick Start
 
